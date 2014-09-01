@@ -1,4 +1,5 @@
 Huffman-Compression
 ===================
 
-Implements the basic Huffman Compression algorithm in C++
+Implementation of Huffman Compression and decompression algorithm in C++. All types of files can be compressed. 
+
