@@ -1,10 +1,13 @@
-#include <iostream.h>
+// Author: Asad Ali
+// Email: asad_82@yahoo.com
+
+#include <iostream>
 #include <conio.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #define LETH 30
-
+using  namespace std;
 
 /*--------------------------Structure Declarations-----------------------------------------*/
 
